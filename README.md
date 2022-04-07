@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ssarahs-lab
 - 👀 I’m interested in coding :) 
-- 🌱 I’m currently learning javascript!
+- 🌱 I’m currently learning Python!
 - 💞️ I’m looking to collaborate on webpages
 - 📫 How to reach me ... message me here?
 
