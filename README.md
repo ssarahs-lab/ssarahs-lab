@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Sarah!
-- 👀 I love coding :) 
 - 💞️ I’m looking to work as a developer
 - 📫 Reach me [here ](https://www.linkedin.com/in/sarah-so-dev/)
 <!---
