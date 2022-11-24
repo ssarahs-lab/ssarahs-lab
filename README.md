@@ -1,16 +1,16 @@
 
+
+**👋 Hi, I’m Sarah!** 
+
 <img src="https://i.imgur.com/R0fW6fb.gif" alt="drawing" width="200"/>
-
-
-- 👋 Hi, I’m Sarah!
 
 **About Me!**
 
-👨🏽‍💻 Currently a freelance developer.
-🔭 Working on revamping my MoodTrackr project.
-🤔 My interest lies in front end web development.
-📫 Reach me [here (Linkedin)](https://www.linkedin.com/in/sarah-so-dev/) or [here (gmail) ](https://mail.google.com/mail/?
-⚡ Fun fact: I love gardening and cottage gardens 🌱 👵🏻.
+- 👨🏽‍💻 Currently a freelance developer.
+- 🔭 Working on revamping my MoodTrackr project.
+- 🤔 My interest lies in front end web development.
+- 📫 Reach me [here (Linkedin)](https://www.linkedin.com/in/sarah-so-dev/) or [here (gmail) ](https://mail.google.com/mail/?
+- ⚡ Fun fact: I love gardening and cottage gardens 🌱 👵🏻.
 
 **Languages and Tools:**
 
