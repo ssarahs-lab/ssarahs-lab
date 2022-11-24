@@ -1,6 +1,6 @@
 
 
-**👋 Hi, I’m Sarah!** 
+**Hi 👋 I’m Sarah!** 
 
 <img src="https://i.imgur.com/R0fW6fb.gif" alt="drawing" width="200"/>
 
