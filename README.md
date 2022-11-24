@@ -30,15 +30,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ssarahs-lab&theme=dark&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ssarahs-lab&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+![](https://visitcount.itsvg.in/api?id=ssarahs-lab&icon=0&color=12)
 
 
 ----
 
-<!-- **By the way, here are my stats!**
 
-[![Sarah's github activity graph](https://activity-graph.herokuapp.com/graph?username=ssarahs-lab)](https://github.com/ssarahs-lab/github-readme-activity-graph)
-    -->
 <!---
 ssarahs-lab/ssarahs-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
