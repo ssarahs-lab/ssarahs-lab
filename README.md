@@ -23,6 +23,16 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
+
+** 📊 GitHub Stats **
+[//]: ![](https://github-readme-stats.vercel.app/api?username=ssarahs-lab&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ssarahs-lab&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ssarahs-lab&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+
 ----
 
 <!-- **By the way, here are my stats!**
