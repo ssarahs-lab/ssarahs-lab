@@ -7,3 +7,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![girl coder](https://i.imgur.com/R0fW6fb.gif)
+
+<img src="https://i.imgur.com/R0fW6fb.gif" alt="drawing" width="200"/>
