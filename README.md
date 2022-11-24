@@ -6,4 +6,4 @@ ssarahs-lab/ssarahs-lab is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-![girl coder](https://imgur.com/R0fW6fb)
+![girl coder](https://i.imgur.com/R0fW6fb.gif)
