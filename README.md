@@ -41,6 +41,6 @@ ssarahs-lab/ssarahs-lab is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-**Badges**
+**Badges** <br/>
 <img src="https://www.codewars.com/users/ssarahs/badges/micro" alt="codewars' badge">
 
