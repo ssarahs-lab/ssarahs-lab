@@ -6,9 +6,8 @@
 
 **About Me**
 
-- 👨🏽‍💻 Currently a freelance developer.
 - 🔭 Working on revamping my MoodTrackr project.
-- 🤔 My interest lies in front end web development.
+- 🤔 My interest lies in web development.
 - 📫 Reach me [here (Linkedin)](https://www.linkedin.com/in/sarah-so-dev/) or [here (gmail) ](https://mail.google.com/mail/?)
 - ⚡ Fun fact: I love gardening and cottage gardens 🌱 👵🏻.
 
