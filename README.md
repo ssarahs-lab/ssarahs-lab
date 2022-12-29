@@ -6,7 +6,7 @@
 
 **About Me**
 
-- 🔭 Working on revamping my MoodTrackr project.
+- 🔭 Working on my projects :)
 - 🤔 My interest lies in web development.
 - 📫 Reach me [here (Linkedin)](https://www.linkedin.com/in/sarah-so-dev/) or [here (gmail) ](https://mail.google.com/mail/?)
 - ⚡ Fun fact: I love gardening and cottage gardens 🌱 👵🏻.
