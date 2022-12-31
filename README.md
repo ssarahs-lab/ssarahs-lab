@@ -7,7 +7,7 @@
 **About Me**
 
 - 🔭 Working on automated #adulting :)
-- 🤔 My current interest lies in web scraping and selenium.
+- 🤔 My current interest lies in coding coding and more coding
 - 📫 Reach me [here (Linkedin)](https://www.linkedin.com/in/sarah-so-dev/) or [here (gmail) ](https://mail.google.com/mail/?)
 - ⚡ Fun fact: I love gardening and cottage gardens 🌱 👵🏻.
 
